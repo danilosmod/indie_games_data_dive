@@ -24,3 +24,5 @@ Implementar uma pipeline de dados automatizada utilizando Apache Airflow para ex
 ![full_etl](https://github.com/user-attachments/assets/33d65182-7b63-4755-ad2e-a850d56b9d7b)
 
 ## Dashboard
+
+![dashboard_bi](https://github.com/user-attachments/assets/1cf9ab68-051b-41f3-86c0-e2e1db309059)
