@@ -21,4 +21,6 @@ Implementar uma pipeline de dados automatizada utilizando Apache Airflow para ex
 
 
 ## Excução ETL
+![full_etl](https://github.com/user-attachments/assets/33d65182-7b63-4755-ad2e-a850d56b9d7b)
+
 ## Dashboard
